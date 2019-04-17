@@ -1,0 +1,139 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sgtcmc.cf" resolutions="1x" timestamp="1555521482998">
+  <folder name="css">
+    <file name="site_global.css" crc="373709799"/>
+    <file name="master_a-master.css" crc="4183746654" ref="about-us:resources:contact-us:coming-events:index:problems-and-challenges"/>
+    <file name="about-us.css" crc="233275952" ref="about-us"/>
+    <file name="resources.css" crc="234719714" ref="resources"/>
+    <file name="contact-us.css" crc="317862507" ref="contact-us"/>
+    <file name="coming-events.css" crc="21479920" ref="coming-events"/>
+    <file name="index.css" crc="3869116118" ref="index"/>
+    <file name="problems-and-challenges.css" crc="147556149" ref="problems-and-challenges"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="require.js" crc="4157109226" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="download (3).jpg" crc="3980591306" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wdmbavf-u100-fr.png" crc="351293257" ref="index"/>
+    <file name="u143-15.png" crc="507264046" ref="index"/>
+    <file name="u161-4.png" crc="4086522672" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u166.png" crc="274881071" ref="index"/>
+    <file name="u166-r.png" crc="4067975320" ref="index"/>
+    <file name="download (2).jpg" crc="4207600894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.jpg" crc="4154987185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download2.jpg" crc="467835264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (1).jpg" crc="4220572713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (2).jpg" crc="4027273216" seo="true" ref="index:problems-and-challenges">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="4156318480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (3)2.jpg" crc="3879276570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fractal-1280084__340-crop-u1659.jpg" crc="2706213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thumb-350-812388.jpg" crc="4226363290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images-crop-u2186.jpg" crc="4004076985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mz5cisf-crop-u1345.jpg" crc="3827324343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (1).jpg" crc="4269116191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="download (5).jpg" crc="4106368065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (8).jpg" crc="242995761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (9).jpg" crc="217405635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (7).jpg" crc="77668748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (3).jpg" crc="287583623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (4).jpg" crc="88826709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (5).jpg" crc="4166092609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (6).jpg" crc="4098318626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orimrxl-u1392-fr.png" crc="3862925138" ref="index"/>
+    <file name="u1452-4.png" crc="4229042016" ref="index"/>
+    <file name="u1455-4.png" crc="4000539106" ref="index"/>
+    <file name="u825-5.png" crc="3992020383" ref="index:about-us:problems-and-challenges:resources:coming-events:contact-us"/>
+    <file name="qx8nxsk.jpg" crc="4201396398" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u847-4.png" crc="518570484" ref="about-us"/>
+    <file name="u3016-13.png" crc="79009619" ref="about-us"/>
+    <file name="u3019-10.png" crc="3812925311" ref="about-us"/>
+    <file name="u3023-8.png" crc="141886855" ref="about-us"/>
+    <file name="fractal-1280081__340.jpg" crc="120352847" ref="problems-and-challenges">
+      <caption webpage="problems-and-challenges" alt=""/>
+    </file>
+    <file name="u1089-4.png" crc="157174424" ref="problems-and-challenges"/>
+    <file name="u1093-9.png" crc="3817344949" ref="problems-and-challenges"/>
+    <file name="pr3.jpg" crc="523421882" ref="problems-and-challenges">
+      <caption webpage="problems-and-challenges" alt=""/>
+    </file>
+    <file name="pr4.jpg" crc="240500657" ref="problems-and-challenges">
+      <caption webpage="problems-and-challenges" alt=""/>
+    </file>
+    <file name="pr7.jpg" crc="251940515" ref="problems-and-challenges">
+      <caption webpage="problems-and-challenges" alt=""/>
+    </file>
+    <file name="crop-u2209-fr.png" crc="431001823" ref="resources"/>
+    <file name="u2225-4.png" crc="347545564" ref="resources"/>
+    <file name="download (5)3-u1811-fr.png" crc="263699684" ref="coming-events"/>
+    <file name="u1878-4.png" crc="4030624734" ref="coming-events"/>
+    <file name="pay-937884__340.jpg" crc="3831609853" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="u2839-4.png" crc="3959888281" ref="contact-us"/>
+    <file name="u2843-11.png" crc="4014588266" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="465175605" seo="true" mt="1555007716492" redirect="true"/>
+  <file name="about-us.html" crc="3972172925" seo="true" mt="1555007716492" redirect="true"/>
+  <file name="problems-and-challenges.html" crc="4179898051" seo="true" mt="1555483137885" redirect="true"/>
+  <file name="resources.html" crc="217512928" seo="true" mt="1555484545205" redirect="true"/>
+  <file name="coming-events.html" crc="4255690049" seo="true" mt="1555007716492" redirect="true"/>
+  <file name="contact-us.html" crc="4024930718" seo="true" mt="1555007716492" redirect="true"/>
+</manifest>
